@@ -4,7 +4,7 @@ import { Text, View } from "react-native"
 function ImageGenerate() {
   return (
     <View>
-      <Text className="text-3xl">ImageGenerate</Text>
+      <Text className="text-3xl">ImageGenerates</Text>
     </View>
   )
 }
